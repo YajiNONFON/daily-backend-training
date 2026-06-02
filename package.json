@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Daily TypeScript function challenges — 2 functions per day",
   "scripts": {
-    "dev": "tsx watch src/week-02/day-04.ts",
+    "dev": "tsx watch src/week-02/day-05.ts",
     "test": "vitest run",
     "test:watch": "vitest",
     "test:week": "vitest run --reporter=verbose"
